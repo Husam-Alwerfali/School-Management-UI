@@ -1,0 +1,7 @@
+{
+  "divt": {
+    "prefix": "divt",
+    "body": ["<div className=\"$1\">$2</div>"],
+    "description": "Div مع className جاهز"
+  }
+}
